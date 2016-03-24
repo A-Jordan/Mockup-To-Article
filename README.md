@@ -1,6 +1,8 @@
 # Mockup-To-Article
 Mockup To Article project for the Front-End Web Developer Nanodegree. Reflections can be found below.
 
+![Screenshot](http://s20.postimg.org/rpjfpueyl/Mockup_to_article_screenshot.png "Screenshot of project")
+
   
 What new skills have you learned?
   
