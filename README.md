@@ -12,8 +12,10 @@ How have you used the problem solving strategies from the first project to overc
 
 Responses to questions:
 
-1. So far the easiest thing is the syntax and tags. Viewing the site as a tree really helps to visualize what goes where.
+1. I learned a few new element tags. 
 
-2. The difficulties that I am having is using MDN for assistance then finding multiple solutions to a problem or question.
+2. So far the easiest thing is the syntax and tags. Viewing the site as a tree really helps to visualize what goes where.
 
-3. The issues that I had run into were easily solved with a short trip to MDN, after some digging and rational thought I had found the solution. 
+3. The difficulties that I am having is using MDN for assistance then finding multiple solutions to a problem or question.
+
+4. The issues that I had run into were easily solved with a short trip to MDN, after some digging and rational thought I had found the solution. 
